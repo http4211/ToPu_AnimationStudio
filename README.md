@@ -1,0 +1,2 @@
+# ToPu_AnimationStudio
+Blenderで使用するアニメーション系アドオンを一つにまとめたアドオン群
